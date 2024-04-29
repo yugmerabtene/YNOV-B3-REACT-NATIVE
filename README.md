@@ -542,58 +542,10 @@ Dans ce TP, vous allez créer une calculatrice simple en utilisant HTML pour la 
 - CSS pour améliorer la mise en forme de la calculatrice (facultatif).
 
 **Corrigé :**  
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculatrice</title>
-</head>
-<body>
-    <h2>Calculatrice</h2>
-    <input type="text" id="input1">
-    <input type="text" id="input2">
-    <button onclick="calculate('+')">+</button>
-    <button onclick="calculate('-')">-</button>
-    <button onclick="calculate('*')">*</button>
-    <button onclick="calculate('/')">/</button>
-    <p>Résultat : <span id="result"></span></p>
-
-    <script>
-        function calculate(operator) {
-            let input1 = document.getElementById('input1').value;
-            let input2 = document.getElementById('input2').value;
-            let result;
-
-            switch(operator) {
-                case '+':
-                    result = Number(input1) + Number(input2);
-                    break;
-                case '-':
-                    result = Number(input1) - Number(input2);
-                    break;
-                case '*':
-                    result = Number(input1) * Number(input2);
-                    break;
-                case '/':
-                    result = Number(input1) / Number(input2);
-                    break;
-                default:
-                    result = "Opérateur non valide";
-            }
-
-            document.getElementById('result').innerText = result;
-        }
-    </script>
-</body>
-</html>
-
-
-
-
-
 **CORRECTION-02** 
+
+
+
 
 <!DOCTYPE html>
 <html lang="en">
