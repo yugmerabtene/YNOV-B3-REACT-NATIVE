@@ -29,7 +29,7 @@ Dans ce TP, vous allez créer une calculatrice simple en utilisant HTML pour la 
 - JavaScript pour la logique de calcul et la gestion des événements.
 - CSS pour améliorer la mise en forme de la calculatrice (facultatif).
 
-# Corrigé : 
+**Corrigé :** 
 
 
 
@@ -86,7 +86,7 @@ Dans ce TP, vous allez créer une calculatrice simple en utilisant HTML pour la 
 
 
 
-# YNOV-B3-REACT-NATIVE
+# CHAPITRE-02 : REACT-NATIVE 
 
 
 
