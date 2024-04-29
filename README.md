@@ -1,4 +1,4 @@
-### CHAPITRE-01 : Javascript Vanilla  
+# CHAPITRE-01 : Javascript Vanilla  
 ## TP-01 :  
 
 **Titre:** Création d'une Calculatrice Simple en HTML et JavaScript
@@ -29,10 +29,7 @@ Dans ce TP, vous allez créer une calculatrice simple en utilisant HTML pour la 
 - JavaScript pour la logique de calcul et la gestion des événements.
 - CSS pour améliorer la mise en forme de la calculatrice (facultatif).
 
-**Corrigé :** 
-
-
-
+**Corrigé :**  
 
 <!DOCTYPE html>
 <html lang="en">
@@ -80,16 +77,7 @@ Dans ce TP, vous allez créer une calculatrice simple en utilisant HTML pour la 
 </body>
 </html>
 
-
-
-
-
-
-
 # CHAPITRE-02 : REACT-NATIVE 
-
-
-
 
 
 PROBLEME DEVICE MANAGER
