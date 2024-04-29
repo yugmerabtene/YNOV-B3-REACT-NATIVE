@@ -544,9 +544,6 @@ Dans ce TP, vous allez créer une calculatrice simple en utilisant HTML pour la 
 **Corrigé :**  
 **CORRECTION-02** 
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -592,6 +589,7 @@ Dans ce TP, vous allez créer une calculatrice simple en utilisant HTML pour la 
     </script>
 </body>
 </html>
+
 
 
 # CHAPITRE-02 : REACT-NATIVE 
