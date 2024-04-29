@@ -335,14 +335,6 @@
    });
    ```
 
-### Ressources additionnelles
-
-#### Cours W3Schools sur le DOM JavaScript
-   - [W3Schools JavaScript HTML DOM](https://www.w3schools.com/js.asp)
-
-
-
----
 
 # Cours sur le DOM et le BOM en JavaScript
 
